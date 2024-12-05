@@ -1,0 +1,8 @@
+.remove-scrollbar-view {
+    scrollbar-width: none;
+}
+
+
+.max-w-80{
+    max-width: 80%;
+}
